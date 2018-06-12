@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "task tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "abel",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "jasmine": "^3.1.0",
+    "jasmine-fixture": "^2.0.0"
+  }
+}
